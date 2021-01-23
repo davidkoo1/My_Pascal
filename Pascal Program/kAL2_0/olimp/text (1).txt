@@ -1,0 +1,5 @@
+var a : Integer;
+begin
+readln(a);
+writeln(PI*sqr(a):0:3);
+end.

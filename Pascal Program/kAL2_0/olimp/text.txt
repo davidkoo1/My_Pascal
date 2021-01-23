@@ -1,0 +1,11 @@
+var 
+b,i,c:integer; 
+begin 
+readln(b); 
+for i:=1 to b do 
+begin 
+ c += i; 
+ 
+end; 
+writeln(c);
+end.

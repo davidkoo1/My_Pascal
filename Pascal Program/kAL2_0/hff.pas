@@ -1,0 +1,3 @@
+begin 
+WriteLn(ord('#'))
+end.
